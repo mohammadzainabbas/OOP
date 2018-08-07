@@ -1,0 +1,8 @@
+﻿Build started 25-Apr-16 12:32:11 PM.
+     1>Project "C:\4th Sem\OOP\Labs\Practice_Testing\Practice_Testing\Practice_Testing.vcxproj" on node 2 (Clean target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : Access to the path 'C:\4th Sem\OOP\Labs\Practice_Testing\Debug\Practice_Testing.exe' is denied.
+     1>Done Building Project "C:\4th Sem\OOP\Labs\Practice_Testing\Practice_Testing\Practice_Testing.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

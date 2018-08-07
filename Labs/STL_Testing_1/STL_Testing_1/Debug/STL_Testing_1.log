@@ -1,0 +1,16 @@
+﻿Build started 09-May-16 2:52:11 PM.
+     1>Project "C:\4th Sem\OOP\Labs\STL_Testing_1\STL_Testing_1\STL_Testing_1.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\4th sem\oop\labs\stl_testing_1\stl_testing_1\source.cpp(30): error C2143: syntax error : missing ';' before '+='
+                 c:\4th sem\oop\labs\stl_testing_1\stl_testing_1\source.cpp(72) : see reference to function template instantiation 'type Average<int>(type [],int)' being compiled
+                 with
+                 [
+                     type=int
+                 ]
+     1>Done Building Project "C:\4th Sem\OOP\Labs\STL_Testing_1\STL_Testing_1\STL_Testing_1.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.87

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOPLab_01", "OOPLab_01\OOPLab_01.vcxproj", "{3B48527D-3C4F-40BC-A291-94D243722E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B48527D-3C4F-40BC-A291-94D243722E7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B48527D-3C4F-40BC-A291-94D243722E7F}.Debug|Win32.Build.0 = Debug|Win32
+		{3B48527D-3C4F-40BC-A291-94D243722E7F}.Release|Win32.ActiveCfg = Release|Win32
+		{3B48527D-3C4F-40BC-A291-94D243722E7F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
